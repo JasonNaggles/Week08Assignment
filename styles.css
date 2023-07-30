@@ -54,3 +54,8 @@ label {
     margin-bottom: 5px;
     color: goldenrod;
 }
+
+.header {
+    position: fixed;
+    
+}
