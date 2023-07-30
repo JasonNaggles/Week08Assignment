@@ -43,3 +43,8 @@ form {
 textarea {
     max-width: 1000px;
 }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
