@@ -39,3 +39,7 @@ th, td {
 form {
     width: 300px;
 }
+
+input {
+    width: 100px;
+}
