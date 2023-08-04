@@ -55,10 +55,11 @@ label {
     color: goldenrod;
 }
 
-.center-iamged {
+.centered-iamge {
     display: block;
     margin: auto;
 }
+
 .header {
     position: relative;
     top: 0;
