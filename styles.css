@@ -89,13 +89,14 @@ nav ul li {
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
+    text-align: center;
 }
 
 nav ul li a {
     color: goldenrod;
     font-size: 17px;
     text-transform: uppercase;
-    text-align: center;
+    
 }
 
 nav ul li a:hover {
