@@ -19,6 +19,7 @@ p {
 
 address {
     color: goldenrod;
+    text-align: center;
 }
 
 h3 {
@@ -118,6 +119,19 @@ nav ul li a:hover {
     border-radius: 50px;
 }
 
-#products h2 h3 {
+#products h2 {
     text-align: center;
 }
+
+#products h3 {
+    text-align: center;
+}
+
+#contact h2 {
+    text-align: center;
+}
+
+.form-container {
+    text-align: center;
+}
+
