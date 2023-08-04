@@ -30,6 +30,7 @@ table {
     background-color:bisque;
     border-collapse: collapse;
     width: 300px;
+    margin: 0 auto;
 }
 
 th, td {
@@ -143,6 +144,7 @@ nav ul li a:hover {
 #OHS {
     text-align: center;
 }
-.table-1 {
 
+.table-container {
+    text-align: center;
 }
