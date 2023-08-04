@@ -101,5 +101,9 @@ nav ul li a:hover {
 
 #home img {
     border-radius: 50px;
-    align-items: center;
+    
+}
+
+#products img {
+    border-radius: 50px;
 }
