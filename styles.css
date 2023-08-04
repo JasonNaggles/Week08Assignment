@@ -72,6 +72,7 @@ label {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    text-align: center;
 }
 
 .navbar a {
@@ -89,7 +90,7 @@ nav ul li {
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
-    text-align: center;
+    
 }
 
 nav ul li a {
@@ -115,4 +116,8 @@ nav ul li a:hover {
 
 #products img {
     border-radius: 50px;
+}
+
+#products h2 h3 {
+    text-align: center;
 }
