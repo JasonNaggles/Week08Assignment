@@ -55,7 +55,7 @@ label {
     color: goldenrod;
 }
 
-.centered-iamge {
+.centered-iamge img {
     display: block;
     margin: auto;
 }
