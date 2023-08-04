@@ -90,6 +90,9 @@ nav ul li a {
     text-transform: uppercase;
 }
 
+nav ul li a:hover {
+    color: blue;
+}
 #home {
     color: goldenrod;
 }
